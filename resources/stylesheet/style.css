@@ -1,23 +1,52 @@
-:root {
+
+.dark-mode {
 	background-color: #1C1B22;
 }
 
-.center {
-	text-align: center;
+.dark-text-content {
+	color: white;
+	padding-left: 20px;
+	font-size: 18px;
 }
 
-.title {
+.dark-title {
+	color: white;
 	background-color: #2A2B33;
-    color: white;
 	padding: 20px;
+	border-radius: 10px;
 	position: relative;
 	top: -11px;
+}
+
+.dark-wip-warning {
+	color: white;
+	background-color: #2A2B33;
+	position: fixed;
+	border-radius: 10px;
+	padding: 10px;
+	text-align: right;
+	right: 10px;
+	bottom: 0px;
+}
+
+.dark-notfound {
+	color: white;
+	background-color: #2A2B33;
+	padding: 10px;
+	text-align: center;
 	border-radius: 10px;
 }
 
-.text-content {
-	color: white;
-	padding-left: 20px;
+.dark-notfound-title {
+	font-size: 30px;
+	margin-left: 520px;
+	margin-right: 520px;
+}
+
+.dark-notfound-text {
+	font-size: 25px;
+	margin-left: 430px;
+	margin-right: 430px;
 }
 
 .iosevka-regular {
