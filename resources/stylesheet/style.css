@@ -1,0 +1,53 @@
+:root {
+	background-color: #1C1B22;
+}
+
+.center {
+	text-align: center;
+}
+
+.title {
+	background-color: #2A2B33;
+    color: white;
+	padding: 20px;
+	position: relative;
+	top: -11px;
+	border-radius: 10px;
+}
+
+.text-content {
+	color: white;
+	padding-left: 20px;
+}
+
+.iosevka-regular {
+	font-family: 'iosevka-regular', sans-serif;
+}
+
+.iosevka-extended {
+	font-family: 'iosevka-extended', sans-serif;
+}
+
+.iosevka-extendedmedium {
+	font-family: 'iosevka-extendedmedium', sans-serif;
+}
+
+.iosevka-extendedbold {
+	font-family: 'iosevka-extendedbold', sans-serif;
+}
+
+.ubuntu-regular {
+	font-family: 'ubuntu-regular', sans-serif;
+}
+
+.ubuntu-italic {
+	font-family: 'ubuntu-italic', sans-serif;
+}
+
+.ubuntu-medium {
+	font-family: 'ubuntu-medium', sans-serif;
+}
+
+.ubuntu-bold {
+	font-family: 'ubuntu-bold', sans-serif;
+}
