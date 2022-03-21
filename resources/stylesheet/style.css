@@ -49,6 +49,21 @@
 	margin-right: 430px;
 }
 
+a.title-links:link {
+	color: white;
+	text-decoration: none;
+}
+
+a.title-links:visited {
+	color: white;
+	text-decoration: none;
+}
+
+a.title-links:hover {
+	color: white;
+	text-decoration: none;
+}
+
 .iosevka-regular {
 	font-family: 'iosevka-regular', sans-serif;
 }
