@@ -69,6 +69,11 @@ a.text-links:hover {
   text-decoration: underline;
 }
 
+li {
+	color: white;
+	text-decoration: none;
+}
+
 .iosevka-regular {
 	font-family: 'iosevka-regular', sans-serif;
 }
