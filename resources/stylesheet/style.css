@@ -54,6 +54,21 @@ a.title-links {
 	text-decoration: none;
 }
 
+a.title-links:hover {
+  color: #84848A;
+  text-decoration: none;
+}
+
+a.text-links {
+	color: white;
+	text-decoration: none;
+}
+
+a.text-links:hover {
+  color: #84848A;
+  text-decoration: underline;
+}
+
 .iosevka-regular {
 	font-family: 'iosevka-regular', sans-serif;
 }
@@ -84,4 +99,8 @@ a.title-links {
 
 .ubuntu-bold {
 	font-family: 'ubuntu-bold', sans-serif;
+}
+
+.index {
+	text-align: center;
 }
