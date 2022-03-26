@@ -5,9 +5,7 @@ make_index.py </path/to/directory> [--header <header text>]
 from __future__ import print_function
 import os.path, time
 
-INDEX_TEMPLATE = r"""
-
-<html class=dark-mode>
+INDEX_TEMPLATE = r"""<html class=dark-mode>
 <head>
 <title>${header}</title>
 <meta property="og:site_name" content="Skiddled's Page">
@@ -22,6 +20,9 @@ INDEX_TEMPLATE = r"""
 </head>
 <body class="ubuntu-medium dark-text-content">
     <h2 class="dark-title" style="top: 8px;"> Index of ${header}</h2>
+    <p class="dark-wip-warning ubuntu-medium">
+	<a href="https://github.com/SkiddledGitHub/skiddledgithub.github.io" class="title-links"> Work in Progress </a>
+    </p>
     <p>
     <table class="index">
         <tbody>
