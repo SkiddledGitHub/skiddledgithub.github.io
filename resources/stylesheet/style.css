@@ -61,16 +61,19 @@ a.title-links:hover {
 
 a.text-links {
 	color: white;
+	margin-bottom: 10px;
 	text-decoration: none;
 }
 
 a.text-links:hover {
-  color: #84848A;
-  text-decoration: underline;
+	color: #84848A;
+	margin-bottom: 10px;
+	text-decoration: underline;
 }
 
 li {
 	color: white;
+	margin-bottom: 8px;
 	text-decoration: none;
 }
 
