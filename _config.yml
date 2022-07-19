@@ -5,12 +5,17 @@ description: "Work in progress."
 baseurl: "/"
 url: "https://zenialdev.github.io"
 github_username:  "ZenialDev"
+discord: "285329659023851520"
+discord_username: "Zenial#0802"
 author:  "ZenialDev"
+footerTitle: "ZenialDev"
+footerDesc: "\"I create spaghetti code.\""
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
